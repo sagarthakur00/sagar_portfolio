@@ -12,21 +12,21 @@ const projects = [
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "Weather App",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+      "Modern weather application with real-time data from weather API and beautiful UI design.",
     image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
+    tags: ["React", "Weather API", "Tailwind CSS"],
     demoUrl: "#",
     githubUrl: "#",
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Real-Time Chat App",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
+      "Full-featured chat application with real-time messaging, user authentication, and modern UI.",
     image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
+    tags: ["React", "Node.js", "Socket.IO"],
     demoUrl: "#",
     githubUrl: "#",
   },
