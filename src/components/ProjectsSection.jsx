@@ -18,7 +18,7 @@ const projects = [
     image: "/projects/project2.png",
     tags: ["React", "Weather API", "Tailwind CSS"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/sagarthakur00/weather-app",
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const projects = [
     image: "/projects/project3.png",
     tags: ["React", "Node.js", "Socket.IO"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/sagarthakur00/chat_app-",
   },
 ];
 
